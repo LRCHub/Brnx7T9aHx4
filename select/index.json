@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Leave",
+  "base_artist": "Stray Kids",
+  "createdAt": "2026-03-08T04:17:05.047355Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Leave Her Johnny",
+      "artist": "Nils Brown, Seán Dagher, David Gossage & Michiel Schrey",
+      "has_synced": true,
+      "path": "select/01_Leave_Her_Johnny_Nils_Brown,_Seán_Dagher,_David_Gossage_&_Michiel_Schrey.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Leave Her Johnny",
+      "artist": "Nils Brown",
+      "has_synced": true,
+      "path": "select/02_Leave_Her_Johnny_Nils_Brown.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Leave You Alone",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/03_Leave_You_Alone_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Leave You Alone",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/04_Leave_You_Alone_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "You Should Probably Leave",
+      "artist": "Chris Stapleton",
+      "has_synced": true,
+      "path": "select/05_You_Should_Probably_Leave_Chris_Stapleton.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Don't Leave Her Lonely Too Long",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/06_Don't_Leave_Her_Lonely_Too_Long_Gary_Allan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don't Leave Her Lonely Too Long (Album Version)",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/07_Don't_Leave_Her_Lonely_Too_Long_(Album_Version)_Gary_Allan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Couldn't Leave You If I Tried",
+      "artist": "Rodney Crowell",
+      "has_synced": true,
+      "path": "select/08_I_Couldn't_Leave_You_If_I_Tried_Rodney_Crowell.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Couldn't Leave You If I Tried (Album Version)",
+      "artist": "Rodney Crowell",
+      "has_synced": false,
+      "path": "select/09_I_Couldn't_Leave_You_If_I_Tried_(Album_Version)_Rodney_Crowell.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Didn't Have To Leave You",
+      "artist": "Jo Dee Messina",
+      "has_synced": true,
+      "path": "select/10_I_Didn't_Have_To_Leave_You_Jo_Dee_Messina.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I'll Leave This World Loving You",
+      "artist": "Ricky Van Shelton",
+      "has_synced": true,
+      "path": "select/11_I'll_Leave_This_World_Loving_You_Ricky_Van_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I'll Leave This World Loving You (Album Version)",
+      "artist": "Ricky Van Shelton",
+      "has_synced": true,
+      "path": "select/12_I'll_Leave_This_World_Loving_You_(Album_Version)_Ricky_Van_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "If You'll Leave Me Tonight I'll Cry",
+      "artist": "Jerry Wallace",
+      "has_synced": false,
+      "path": "select/13_If_You'll_Leave_Me_Tonight_I'll_Cry_Jerry_Wallace.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "If You Leave Me Tonight I'll Cry",
+      "artist": "Jerry Wallace",
+      "has_synced": false,
+      "path": "select/14_If_You_Leave_Me_Tonight_I'll_Cry_Jerry_Wallace.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Leave Her Alone",
+      "artist": "Dylan Scott",
+      "has_synced": true,
+      "path": "select/15_Leave_Her_Alone_Dylan_Scott.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Leave Her Wild",
+      "artist": "Tyler Rich",
+      "has_synced": true,
+      "path": "select/16_Leave_Her_Wild_Tyler_Rich.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Leave Me (Like You Found Me)",
+      "artist": "Wilco",
+      "has_synced": false,
+      "path": "select/17_Leave_Me_(Like_You_Found_Me)_Wilco.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Leave",
+      "artist": "Stray Kids",
+      "has_synced": false,
+      "path": "select/pl_01_Leave_Stray_Kids.txt"
+    }
+  ]
+}
